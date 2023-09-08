@@ -1,0 +1,14 @@
+width = 750
+height = 750
+rows = 3
+cols = 3
+SQSIZE = width// cols
+lineWidth = 15
+circWidth = 15
+crossWidth = 20
+RADIUS = SQSIZE // 4
+OFFSET = 50
+bgColor = (0, 0, 0)
+lineColor = (127, 127, 127)
+circColor = (239, 231, 200)
+crossColor = (66, 66, 66)
